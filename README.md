@@ -44,6 +44,7 @@ A web based project you can see it live at [ehaat.com](http://ehaat.42web.io)
 
 ### Users
 - User login/registration
+- chat support
 - Add to cart features locally
 - Product details page
 - Order product
@@ -66,6 +67,7 @@ A web based project you can see it live at [ehaat.com](http://ehaat.42web.io)
 - Admin dashboard
 - Approve or reject legit products added by sellers
 - Can permanently remove products from the site
+- answer to chat support query by users
 
 ## Ehaat
 
