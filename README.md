@@ -32,6 +32,7 @@ A web based project you can see it live at [ehaat.com](http://ehaat.42web.io)
     
     
 5.create otpfunction.php inside the otp folder and implement the otp functionality i have used elastic email you can use any 3rd party for otp or can completely remove otp functionality by own
+
 6.you are good to go
 
 
@@ -99,20 +100,20 @@ A Flutter application that displays trending movies, popular movies, top-rated m
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/niranjandahal/MovieApp_Flutter.git
-
-2.Navigate to the project directory:
+    ```bash
+    git clone https://github.com/niranjandahal/MovieApp_Flutter.git
     
+2.Navigate to the project directory:
+
     cd movie-app
 
 3.Install dependencies:
-   
-      flutter pub get
+
+    flutter pub get
 
 4.Run the app
 
-     flutter run
+    flutter run
 
 
 ## Contributing
