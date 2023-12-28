@@ -40,38 +40,35 @@ A web based project you can see it live at [ehaat.com](http://ehaat.42web.io)
 <img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-six.png">
 
 
-## features
+## Features
 
-USERS
-    
--user login/registration
--add to cart features locally
--product details page
--order product
--view pending and approved order
--cancel pending order
--verify the delivered product
+### Users
+- User login/registration
+- Add to cart features locally
+- Product details page
+- Order product
+- View pending and approved orders
+- Cancel pending orders
+- Verify the delivered product
 
-SELLER
+### Seller
+- Seller registration with OTP verification
+- Seller login
+- Seller dashboard
+- Add multiple products
+- View the orders made by users for their seller products
+- Approve or reject the orders made by users
+- Once approved, sellers get users' details and location for product delivery
+- View to-be-delivered products
 
--seller registration with otp verification
--seller login
--seller dashboard
--add multiple products
--view the order made by user on their seller products
--approve or reject the order made by users
--once approved seller get the users details and location for product delivery
--view to be delivered product 
-
-ADMIN
-    
--limited no of admin only
--admin dashboard
--approve or reject legit product added by sellers
--can permanently remove products from site
-
+### Admin
+- Limited number of admins only
+- Admin dashboard
+- Approve or reject legit products added by sellers
+- Can permanently remove products from the site
 
 ## Ehaat
+
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-90%25-green)
