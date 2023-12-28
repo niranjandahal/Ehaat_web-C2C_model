@@ -17,7 +17,6 @@ A web based project you can see it live at [ehaat.com](http://ehaat.42web.io)
 4.create "dbconnection.php" and configure host,username,password,dbname
 
 
-    ```php
     <?php
     // ehaat local server
     //
