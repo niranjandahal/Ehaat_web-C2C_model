@@ -15,6 +15,18 @@ $dbname = "if0_35587418_ecommercedb";
 // $dbname = "if0_34587086_ecommercedb";
 //
 // ehaat local server
+
+
+
+
+
+
+
+
+
+
+f
+
 //
 $servername = "localhost";
 $username = "root";
