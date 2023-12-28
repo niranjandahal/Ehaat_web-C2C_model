@@ -42,7 +42,7 @@ A web based project you can see it live at [ehaat.com](http://ehaat.42web.io)
 
 ## features
 
-    #users 
+   users
     
 -user login/registration
 -add to cart features locally
@@ -52,7 +52,7 @@ A web based project you can see it live at [ehaat.com](http://ehaat.42web.io)
 -cancel pending order
 -verify the delivered product
 
-    #seller
+   seller
 
 -seller registration with otp verification
 -seller login
@@ -63,7 +63,7 @@ A web based project you can see it live at [ehaat.com](http://ehaat.42web.io)
 -once approved seller get the users details and location for product delivery
 -view to be delivered product 
 
-    #admin
+   admin
     
 -limited no of admin only
 -admin dashboard
