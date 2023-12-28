@@ -82,18 +82,18 @@ A web based project you can see it live at [EHAAT.COM](http://ehaat.42web.io)
 
 ## Screenshots
 
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s1.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s2.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s3.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s4.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s5.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s6.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s7.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s8.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s9.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s10.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s11.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s12.png" width="300">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s1.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s2.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s3.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s4.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s5.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s6.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s7.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s8.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s9.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s10.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s11.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s12.png">
 
 
 
