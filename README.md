@@ -2,6 +2,9 @@
 
 A web based project you can see it live at [ehaat.com](http://ehaat.42web.io)
 
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s1.png" width="300">
+
+
 # Video sample
 [![Youtube Video](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
 
@@ -79,16 +82,19 @@ A web based project you can see it live at [ehaat.com](http://ehaat.42web.io)
 
 ## Screenshots
 
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-5-s1.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-5-s2.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-5-s3.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-5-s4.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-5-s5.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-5-s6.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-5-s7.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-5-s8.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-5-s9.png" width="300">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-5-s10.png" width="300">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s1.png" width="300">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s2.png" width="300">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s3.png" width="300">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s4.png" width="300">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s5.png" width="300">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s6.png" width="300">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s7.png" width="300">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s8.png" width="300">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s9.png" width="300">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s10.png" width="300">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s11.png" width="300">
+<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s12.png" width="300">
+
 
 
 
