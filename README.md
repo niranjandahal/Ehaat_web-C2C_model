@@ -71,7 +71,7 @@ ADMIN
 -can permanently remove products from site
 
 
-# Ehaat
+## Ehaat
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-90%25-green)
