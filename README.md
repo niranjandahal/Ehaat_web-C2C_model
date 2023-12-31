@@ -6,7 +6,7 @@ A web based project you can see it live at [EHAAT.COM](http://ehaat.42web.io)
 
 
 # Video sample
-[![Youtube Video](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
+[![Youtube Video](https://img.youtube.com/vi//W0vN6v4iiOI[0].jpg)](https://www.youtube.com/watch?v=W0vN6v4iiOI)
 
 
 ## Getting Started
