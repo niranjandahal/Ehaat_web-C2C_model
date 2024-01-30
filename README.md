@@ -1,7 +1,7 @@
 ﻿# Ehaat_web-B2C_model
 
 A web based project you can see it live at [EHAAT.COM](http://ehaat.42web.io)
-
+   
 <img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s1.png">
 
 
