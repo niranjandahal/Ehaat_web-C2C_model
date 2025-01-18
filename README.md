@@ -1,8 +1,8 @@
-﻿# Ehaat_web-B2C_model
+﻿# Ehaat_web-C2C_model
 
 A web based project you can see it live at [EHAAT.COM](http://ehaat.42web.io)
    
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s1.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-6-s1.png">
 
 
 # Video sample
@@ -40,7 +40,7 @@ A web based project you can see it live at [EHAAT.COM](http://ehaat.42web.io)
 
 6.you are good to go
 
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-six.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-six.png">
 
 
 ## Features
@@ -82,18 +82,18 @@ A web based project you can see it live at [EHAAT.COM](http://ehaat.42web.io)
 
 ## Screenshots
 
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s1.png">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s2.png">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s3.png">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s4.png">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s5.png">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s6.png">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s7.png">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s8.png">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s9.png">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s10.png">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s11.png">
-<img src="https://github.com/niranjandahal/Ehaat_web-B2C_model/blob/main/project-6-s12.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-6-s1.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-6-s2.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-6-s3.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-6-s4.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-6-s5.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-6-s6.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-6-s7.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-6-s8.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-6-s9.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-6-s10.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-6-s11.png">
+<img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-6-s12.png">
 
 
 
@@ -118,11 +118,11 @@ A web based project you can see it live at [EHAAT.COM](http://ehaat.42web.io)
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/niranjandahal/Ehaat_web-B2C_model.git
+    git clone https://github.com/niranjandahal/Ehaat_web-C2C_model.git
     
 2.Navigate to the project directory:
 
-    cd haat_web-B2C_model
+    cd haat_web-C2C_model
 
 3.Install dependencies:
 
