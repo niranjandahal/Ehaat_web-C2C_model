@@ -46,7 +46,7 @@ A web based project you can see it live at [EHAAT.COM](http://ehaat.42web.io)
 
 6. create .env file in root directory of project and write apikey = yourelasticmailapikey
 
-4. after these 6 steps you are good to go
+4. after completion of above steps type "localhost/Ehaat_web-C2C_model" in browser to run this project.
 
 <img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-six.png">
 
