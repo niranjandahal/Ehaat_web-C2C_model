@@ -11,34 +11,42 @@ A web based project you can see it live at [EHAAT.COM](http://ehaat.42web.io)
 
 ## Getting Started
 
-1.you need to install xampp first and also install composer
+### Prerequisites
+- install xampp on your machine
+- install composer(used to add dependencies in php)
+- tailwind cdn for UI
 
-2.configure database in phpmyadmin
+### Installation
 
-3.give a database name ecommercedb and import the ehaatlatest.sql file inside the directory
+1. Clone the repository: in this folder "C:\xampp\htdocs"
 
-4.create "dbconnection.php" and configure host,username,password,dbname
-
-        
-        <?php
-        // ehaat local server
-        //
-        $servername = "localhost";
-        $username = "root";
-        $password = "";
-        $dbname = "ecommercedb";
-        //
-        $conn = new mysqli($servername, $username, $password, $dbname);
-        if ($conn->connect_error) {
-            die("Connection failed: " . $conn->connect_error);
-        }
-        
+    ```bash
+    git clone https://github.com/niranjandahal/Ehaat_web-C2C_model.git
     
-5.create otpfunction.php inside the otp folder and implement the otp functionality i have used elastic email you can use any 3rd party for otp or can completely remove otp functionality by own
+2.Navigate to the project directory:
+
+    cd haat_web-C2C_model
+
+3.Install dependencies:
+
+    composer install
 
 
+## follow these step to run project
 
-6.you are good to go
+1. open xampp and run apache and mysql server.
+
+2. go to "localhost" in browser and then go to phpmyadmin.
+
+3. Create new database name "ecommercedb" 
+
+4. go to import and choose file "ehaatlatest.sql" from root directory of project.
+
+5. go to elasticmail create account and get apikey for validating otp via email.
+
+6. create .env file in root directory of project and write apikey = yourelasticmailapikey
+
+4. after these 6 steps you are good to go
 
 <img src="https://github.com/niranjandahal/Ehaat_web-C2C_model/blob/main/project-six.png">
 
@@ -106,27 +114,7 @@ A web based project you can see it live at [EHAAT.COM](http://ehaat.42web.io)
 - javascript
 - MySql database
 
-## Getting Started
 
-### Prerequisites
-
--configuration of php on your machine
--xampp,composer,tailwind cdn
-
-### Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/niranjandahal/Ehaat_web-C2C_model.git
-    
-2.Navigate to the project directory:
-
-    cd haat_web-C2C_model
-
-3.Install dependencies:
-
-    composer install
 
 
 ## Contributing
