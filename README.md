@@ -19,7 +19,7 @@ A web based project you can see it live at [EHAAT.COM](http://ehaat.42web.io)
 
 4.create "dbconnection.php" and configure host,username,password,dbname
 
-        ```php
+        
         <?php
         // ehaat local server
         //
@@ -32,7 +32,7 @@ A web based project you can see it live at [EHAAT.COM](http://ehaat.42web.io)
         if ($conn->connect_error) {
             die("Connection failed: " . $conn->connect_error);
         }
-        \```
+        
     
 5.create otpfunction.php inside the otp folder and implement the otp functionality i have used elastic email you can use any 3rd party for otp or can completely remove otp functionality by own
 
